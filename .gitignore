@@ -1,0 +1,6 @@
+flyte-consul
+/vendor
+
+.idea
+.vscode
+*.log
